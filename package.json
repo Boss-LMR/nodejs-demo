@@ -21,10 +21,11 @@
   },
   "homepage": "https://github.com/wangding/nodejs-demo#readme",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "express": "^4.16.4"
+    "eslint": "^4.19.1"
   },
   "dependencies": {
+    "express": "^4.16.4",
+    "chalk": "^4.1.0",
     "mysql": "^2.18.1"
   }
 }
